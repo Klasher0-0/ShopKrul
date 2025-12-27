@@ -1,0 +1,10 @@
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.AssemblyReference.cache
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\obj\Debug\ShopApp.Form1.resources
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\Student305.IT\Documents\КРЫЛОВ\ShopApp\ShopApp\obj\Debug\ShopApp.pdb
